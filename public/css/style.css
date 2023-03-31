@@ -1,0 +1,13 @@
+h1 {
+ color: blue;
+ padding: 3x
+}
+
+a {
+    color: red;
+    font-style: italic
+}
+
+.err {
+    color: red
+}
